@@ -1,0 +1,2 @@
+# State Design Pattern
+Demonstrates the State Design pattern using a door object. The door object may exist in several different states. This demonstration shows the benefit to delegating all transitions to a State Interface, then implementing concrete States to handle tasks.
