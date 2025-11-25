@@ -1,0 +1,6 @@
+services:
+  state-demo:
+    container_name: state-demo
+    build:
+      context: .
+    restart: no
